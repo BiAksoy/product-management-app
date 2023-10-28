@@ -1,0 +1,12 @@
+{
+  "productListTitle": "Product List",
+  "sortLabel": "Sort By:",
+  "priceOption": "Price",
+  "popularityOption": "Popularity",
+  "dateOption": "Date Added",
+  "addProductTitle": "Add Product",
+  "productNameLabel": "Product Name:",
+  "productPriceLabel": "Product Price (TRY):",
+  "addProductButton": "Add",
+  "deleteButton": "Delete"
+}

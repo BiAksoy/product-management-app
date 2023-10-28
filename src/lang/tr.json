@@ -1,0 +1,12 @@
+{
+  "productListTitle": "Ürün Listesi",
+  "sortLabel": "Sırala:",
+  "priceOption": "Fiyat",
+  "popularityOption": "Popülerlik",
+  "dateOption": "Eklenme Tarihi",
+  "addProductTitle": "Ürün Ekle",
+  "productNameLabel": "Ürün Adı:",
+  "productPriceLabel": "Ürün Fiyatı (TL):",
+  "addProductButton": "Ekle",
+  "deleteButton": "Sil"
+}
